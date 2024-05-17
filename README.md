@@ -1,1 +1,1 @@
-Projeto Hotsite feito no SENAC e auxiliado pelo professor Marcelo  
+Projeto Hotsite feito no SENAC e auxiliado pelo professor Marcelo   
